@@ -13,3 +13,8 @@
 * **Date:** 2026-04-22
 * **Milestone:** Uploaded SQL 与 NoSQL 的选型对比：全面解析 (1).docx to the week-02-sql directory.
 * **Notes:** Pushed local work to the repository using Colab interactive upload.
+
+## Week 4: Machine Learning Model Development
+* **Date:** 2026-05-05
+* **Milestone:** Trained classification models and saved the best performer.
+* **Notes:** Compared Logistic Regression and XGBoost (F1 Score: 0.7586). Wrapped the best model into `best_titanic_model.pkl` and programmatically pushed it to both AWS S3 and GitHub repository.
