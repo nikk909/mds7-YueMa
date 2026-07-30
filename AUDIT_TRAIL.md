@@ -28,3 +28,8 @@
 * **Date:** 2026-05-14 20:16
 * **Milestone:** Executed full Neural Network ETLS (Extract, Train, Load, Serve) pipeline.
 * **Notes:** Developed and evaluated 3-layer and 5-layer models (Test Accuracy: ~0.79). Automated the synchronization of model artifacts (.h5), documentation (README), and source code (.ipynb) to AWS S3 Data Lake and GitHub Serving Layer.
+
+## Week 10-12: Green AI Trade-Off (Accuracy vs. CO₂)
+* **Date:** 2026-07-30 15:18
+* **Milestone:** Completed Deep MLP carbon-vs-data experiments with CodeCarbon tracking.
+* **Notes:** Trained 4 MLP configs (A–D) on Fashion-MNIST; tracked CO₂ via EmissionsTracker. Winning config = Experiment C (100% data, 50 epochs; Acc 89.74%, CO₂ 0.0007 g). Synced notebook, emissions.csv, tradeoff_plot.png, and README conclusion to GitHub (`week-10-12-async-lab`).
