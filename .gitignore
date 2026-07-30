@@ -1,0 +1,60 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data / local files
+file/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.h5
+*.hdf5
+
+# Logs / caches
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Large media — do NOT commit to GitHub (link in README instead)
+*.mp4
+*.mov
+*.avi
+video.mp4
