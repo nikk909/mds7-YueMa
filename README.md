@@ -2,8 +2,11 @@
 
 ## Demo Video（演示视频）
 
-> **Watch here / 点击观看（约 10–15 分钟）：**  
+> **Watch here / 点击观看（~20 min, feel free to play at 1.5x）：**  
 > **[Green AI Trade-Off — Project Demo](https://drive.google.com/file/d/1GwNUPG7DKQzvYLOnKdzSPZ8Af7cw-eJe/view?usp=sharing)**
+
+Just click the link above to watch.  
+点击上方链接即可观看。
 
 | | |
 |--|--|
@@ -23,11 +26,3 @@ This MDS 7 project studies the trade-off between model accuracy and carbon emiss
 
 - `week-10-12-async-lab/` — notebook, `emissions.csv`, `tradeoff_plot.png`, conclusion README  
 - `AUDIT_TRAIL.md` — milestone log  
-
----
-
-## How to open the video
-
-1. Click the link in **Demo Video** at the top of this page.  
-2. If using Google Drive: make sure sharing is set to **Anyone with the link can view**.  
-3. If using YouTube: set visibility to **Unlisted** or **Public**.
